@@ -18,4 +18,4 @@ function noYelling(str) {
 
 console.log(noYelling('What went wrong?????????')); // ➞ "What went wrong?"
 console.log(noYelling('Oh my goodness!!!')); // ➞ "Oh my goodness!"
-console.log(noYelling('What went wrong?????????!!!!!!!'));
+console.log(noYelling('What went wrong?????????!!!!!!!')); // ➞ "What went wrong?!"
